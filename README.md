@@ -11,7 +11,7 @@ All assets living in [Figma](https://www.figma.com/file/2OHfIZJVfOeNyV2Q28QIgL/S
 
 ## Colors
 
-We have 6 colors in total: 3 primary color and 3 secondary colors.
+We have 6 colors in total: 3 primary colors and 3 secondary colors.
 
 *  Primary cyan: #62CFF7
 *  Primary cyan-blue: #5EABF5
