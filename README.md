@@ -7,7 +7,7 @@ SVG assets don't lose quality when scaled, but they might not be compatible with
 
 PNG assets lose quality when scaled but they have wide compatibility across all platforms.
 
-All assets living in [Figma](https://www.figma.com/file/2OHfIZJVfOeNyV2Q28QIgL/Solace?node-id=16%3A21). At the momnet this includes only pie charts.
+All assets living in [Figma](https://www.figma.com/file/2OHfIZJVfOeNyV2Q28QIgL/Solace?node-id=16%3A21). At the moment this includes only pie charts.
 
 ## Colors
 
