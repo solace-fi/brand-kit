@@ -17,9 +17,9 @@ We have 6 colors in total: 3 primary colors and 3 secondary colors.
 *  Primary cyan-blue: #5EABF5
 *  Primary medium light shade of blue-magenta: #B465F7
 
-*  Seconadry blue: #6B80F5
-*  Seconadry light shade of blue-magenta: #A88BF6
-*  Seconadry light shade of blue-magenta 2: #C396ED
+*  Secondary blue: #6B80F5
+*  Secondary light shade of blue-magenta: #A88BF6
+*  Secondary light shade of blue-magenta 2: #C396ED
 
 ## Fonts
 
