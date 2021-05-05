@@ -7,7 +7,7 @@ SVG assets don't lose quality when scaled, but they might not be compatible with
 
 PNG assets lose quality when scaled but they have wide compatibility across all platforms.
 
-All assets living in [Figma](https://www.figma.com/file/2OHfIZJVfOeNyV2Q28QIgL/Solace?node-id=16%3A21). At the moment this includes only pie charts.
+All assets living in [Figma](https://www.figma.com/file/2OHfIZJVfOeNyV2Q28QIgL/Solace?node-id=16%3A21). At the moment this includes full logos, icon logos, fonts, colors and pie charts.
 
 ## Colors
 
@@ -23,4 +23,4 @@ We have 6 colors in total: 3 primary colors and 3 secondary colors.
 
 ## Fonts
 
-We use PT Sans Bold for titles and PT Sans regular (normal) for paragraphs
+We use PT Sans Bold for titles and PT Sans regular (normal) for paragraphs.
